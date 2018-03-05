@@ -1,0 +1,13 @@
+.title {
+  font-family: "Courier New";
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+ul {
+  font-family: Georgia;
+  font-size: 1em;
+  box-sizing: content-box;
+}
