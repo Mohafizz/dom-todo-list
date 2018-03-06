@@ -1,5 +1,7 @@
 .title {
   font-family: "Courier New";
+  display: flex;
+  align-self: flex-end;
 }
 
 .done {
